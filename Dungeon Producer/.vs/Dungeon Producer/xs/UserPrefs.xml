@@ -1,0 +1,15 @@
+﻿<Properties StartupConfiguration="{D846A59A-3812-A6CE-6991-5099C9E3ED5A}|">
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="Unity.Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Producer.cs">
+    <Files>
+      <File FileName="Assets/Scripts/btn.cs" Line="15" Column="3" />
+      <File FileName="Assets/Scripts/Producer.cs" Line="99" Column="134" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MultiItemStartupConfigurations />
+</Properties>
